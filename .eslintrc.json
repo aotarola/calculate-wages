@@ -1,0 +1,7 @@
+{
+  "extends": [
+    "groupon/typescript",
+    "plugin:regexp/recommended"
+  ],
+  "root": true
+}

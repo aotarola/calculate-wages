@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/node16",
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "declaration": false,
+    "lib": null,
+    "module": "ESNext",
+    "allowJs": false
+  }
+}
